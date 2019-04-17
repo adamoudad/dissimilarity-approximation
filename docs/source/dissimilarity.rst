@@ -1,0 +1,7 @@
+=============
+Dissimilarité
+=============
+.. automodule:: dissimilarity
+.. autofunction:: triangularNumber
+.. autoclass:: Dissimilarity
+   :members:
